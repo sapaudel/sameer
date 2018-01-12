@@ -1,10 +1,10 @@
 # sameer 
-html>
+<html>
 <head>
 <style type="text/css">
-body {background-color:  }
+body {background-color: red}
 p {margin left: 20px}
-</style></head>
+</style>
 <title>My project</title>
 </head>
 <body>
