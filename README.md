@@ -4,7 +4,7 @@ html>
 <style type="text/css">
 body {background-color:  }
 p {margin left: 20px}
-</style>
+</style></head>
 <title>My project</title>
 </head>
 <body>
